@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLlite</string>
+    <string name="go">Go !</string>
+    <string name="entrer_un_text">Entrer un text</string>
+    <string name="list_des_personnes">------List des personnes</string>
+    <string name="entrer_votre_prenom">Entrer votre Prenom</string>
+    <string name="list_personne">List Personne</string>
+    <string name="entrer_votre_nom">Entrer votre Nom</string>
+    <string name="retour_au_main_page">Retour au main page</string>
+</resources>
